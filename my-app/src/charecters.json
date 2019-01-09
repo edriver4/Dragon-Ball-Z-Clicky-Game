@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Goku",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.urbanarts.com.br%2Fimagens%2Fprodutos%2F157716%2F0%2FAmpliada%2Fgoku-plano-geral.jpg&imgrefurl=https%3A%2F%2Fwww.urbanarts.com.br%2Fgoku-plano-geral-85757%2Fp&docid=p8IM6_E4DNNXwM&tbnid=6M7o-BGyUgNChM%3A&vet=10ahUKEwjLp86kpeHfAhVMCxoKHVnuArcQMwhNKBgwGA..i&w=600&h=800&bih=718&biw=1037&q=goku&ved=0ahUKEwjLp86kpeHfAhVMCxoKHVnuArcQMwhNKBgwGA&iact=mrc&uact=8",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Gohan",
+      "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fpixel.nymag.com%2Fimgs%2Fdaily%2Fvulture%2F2015%2F08%2F12%2Fdragon-ball-z-quiz%2Fgohan-young-b.jpg&imgrefurl=https%3A%2F%2Fwww.vulture.com%2F2015%2F08%2Fdragon-ball-zs-spiky-hair-quiz.html&docid=DZo8sPmAcoe7LM&tbnid=23DJJAYk4k33PM%3A&vet=10ahUKEwjI14rtpeHfAhUPfxoKHZc9ArMQMwg7KBMwEw..i&w=1058&h=1058&bih=718&biw=1037&q=gohan%20teen&ved=0ahUKEwjI14rtpeHfAhUPfxoKHZc9ArMQMwg7KBMwEw&iact=mrc&uact=8",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Krillin",
+      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjg6s2xpuHfAhUox4UKHTcTAwYQjRx6BAgBEAU&url=http%3A%2F%2Fwww.acceleraise.org%2Fstatic%2Fuploads%2F&psig=AOvVaw3ge7tpYtYnE3X8ZtPeKmIY&ust=1547143877024079",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Piccolo",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiR27rVpuHfAhVJExoKHft-B2cQjRx6BAgBEAU&url=http%3A%2F%2Fnl.dragonball.wikia.com%2Fwiki%2FPiccolo_Jr.&psig=AOvVaw2dA9p24933Gl4PGg0kAV2o&ust=1547143992362150",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Vegeta",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjrvdDsqOHfAhXFyYUKHak2Dg4QjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F607986018416865251%2F&psig=AOvVaw2hFI3w2fdw1KoqaYZnQfm4&ust=1547144378693569",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Trunks",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjXhIGYqeHfAhWI34UKHVXvAGAQjRx6BAgBEAU&url=http%3A%2F%2Fjakubmroz.com%2Fdragon_ball_z_trunks_wallpapers_phones.html&psig=AOvVaw3Nimf08bh4H4htyeiPaatR&ust=1547144635187531",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 7,
+      "name": "Frieza",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwilssjaqeHfAhWmz4UKHcwJCRwQjRx6BAgBEAU&url=http%3A%2F%2Fdragonball.wikia.com%2Fwiki%2FFile%3AFighterz_(5).jpg&psig=AOvVaw02r_aGq4Rm8ZpguQkGyzt9&ust=1547144736376495",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "Dr.Gero",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiehKO0quHfAhWLzIUKHfEDCBQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.co.uk%2Fpin%2F684054630877449609%2F&psig=AOvVaw3jEFM-glwE2QkKp8-Hw0Q2&ust=1547144990750262",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "id": 9,
+      "name": "Android 16",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjF69KNq-HfAhUB-YUKHZbeBMEQjRx6BAgBEAU&url=http%3A%2F%2Fdragonballfanon.wikia.com%2Fwiki%2FAndroid_16_(BH_Saga)&psig=AOvVaw3XMcC2TLTeYbVEmy20h6fU&ust=1547145132309574",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "name": "Android 17",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiUs6L3q-HfAhUNzIUKHR8vAsEQjRx6BAgBEAU&url=https%3A%2F%2Ftvtropes.org%2Fpmwiki%2Fpmwiki.php%2FCharacters%2FDragonBallAndroids17And18&psig=AOvVaw1cN_CP1iTwvwbT5OodRUmB&ust=1547145341021561",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "name": "Android 18",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiA-b6brOHfAhUwzYUKHXZOBG0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F367747125816551184%2F&psig=AOvVaw0csETpykgPoI-px8OB6E33&ust=1547145451938253",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Cell",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjvkrDUrOHfAhVHgxoKHTeeCjQQjRx6BAgBEAU&url=http%3A%2F%2Fvillains.wikia.com%2Fwiki%2FCell&psig=AOvVaw1z6SKLeCUWADMYc9aJ7ddf&ust=1547145605974283",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]

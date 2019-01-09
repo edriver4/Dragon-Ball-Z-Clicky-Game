@@ -1,3 +1,4 @@
+import React from "react";
 import "./CharecterCard.css";
 
 const CharecterCard = props => (

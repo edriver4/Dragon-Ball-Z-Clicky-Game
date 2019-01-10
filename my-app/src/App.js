@@ -11,35 +11,41 @@ class App extends Component {
   state = {
     charecters
   };
+
+  shuffleData = (data) => {
+    var i;
+    for (i = 0; i < data.length; i++){
+      // grab that array index
+
+      // randomize that index within the array
+     var randomIndex = Math.floor((Math.random() * 11) + 1);
+     const temp = data[i]
+     data[i] = data[randomIndex]
+     data[randomIndex] = temp
+    // assign that index a random index     
+    }
+    this.setState({
+      charecters: data,
+    })
+  }
+
   render() {
+    const { charecters } = this.state
     return (
       <Wrapper>
         <Title>Dragon Ball Z</Title>
-        {this.state.charecters.map(charecter => (
-          <CharecterCard
-          id={charecter.id}
-          key={charecter.id}
-          name={charecter.name}
-          image={charecter.image}
+        <div onClick={ () => this.shuffleData(charecters)}>
+          Click me for magic!!!
+        </div>
+        {charecters.map(charecter => (
+          <CharecterCard 
+            id={charecter.id}
+            key={charecter.id}
+            name={charecter.name}
+            image={charecter.image}
           />
         ))}
       </Wrapper>
-      // <div className="App">
-      //   <header className="App-header">
-      //     <img src={logo} className="App-logo" alt="logo" />
-      //     <p>
-      //       Edit <code>src/App.js</code> and save to reload.
-      //     </p>
-      //     <a
-      //       className="App-link"
-      //       href="https://reactjs.org"
-      //       target="_blank"
-      //       rel="noopener noreferrer"
-      //     >
-      //       Learn React
-      //     </a>
-      //   </header>
-      // </div>
     );
   }
 }

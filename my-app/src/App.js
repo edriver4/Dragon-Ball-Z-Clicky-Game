@@ -9,7 +9,11 @@ import Title from "./components/Title";
 class App extends Component {
   // Setting this.state.charecters to the friends json array
   state = {
-    charecters
+    charecters,
+    lastChoice: 1,
+    score: 0,
+    win: "",
+    topScore: 0
   };
 
   shuffleData = (data) => {

@@ -52,7 +52,7 @@ shuffleCharecters = id => {
     charecters,
     lastChoice: id,
     score: newState.score,
-    wind: newState.win,
+    win: newState.win,
     topScore: newState.topScore
   });
 }
